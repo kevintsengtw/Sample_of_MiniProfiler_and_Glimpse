@@ -5,6 +5,8 @@ ASP.NET MVC and ASP.NET WebForms with MiniProfiler and Glimpse
 
 使用環境：Visual Studio 2013 Update2, LocalDB
 
+==================================================
+
 
 **ASP.NET MVC 5 + Entity Framework 6 + MiniProfiler**
 
@@ -24,6 +26,6 @@ ASP.NET MVC and ASP.NET WebForms with MiniProfiler and Glimpse
 
 部落格文章：[http://kevintsengtw.blogspot.tw/2014/06/glimpse-aspnet-webforms-adonet.html](http://kevintsengtw.blogspot.tw/2014/06/glimpse-aspnet-webforms-adonet.html)
 
-----------
+==================================================
 
 為了避免檔案過大，因此使用的套件皆無上傳，請自行還原，還原方式請參考 [NuGet套件還原步驟使用Visual Studio 2012 為例 | demo小鋪](http://demo.tc/Post/763)
