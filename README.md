@@ -28,4 +28,6 @@ ASP.NET MVC and ASP.NET WebForms with MiniProfiler and Glimpse
 
 ==================================================
 
-為了避免檔案過大，因此使用的套件皆無上傳，請自行還原，還原方式請參考 [NuGet套件還原步驟使用Visual Studio 2012 為例 | demo小鋪](http://demo.tc/Post/763)
+為了避免檔案過大，因此使用的套件皆無上傳，請自行還原，還原方式請參考以下連結
+
+ [NuGet套件還原步驟使用Visual Studio 2012 為例 | demo小鋪](http://demo.tc/Post/763)
